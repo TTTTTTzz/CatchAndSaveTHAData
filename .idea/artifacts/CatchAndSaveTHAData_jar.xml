@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="CatchAndSaveTHAData:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CatchAndSaveTHAData_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CatchAndSaveTHAData.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="CatchAndSaveTHAData" />
+      </element>
+      <element id="library" level="project" name="Maven: com.oracle:ojdbc8:19.3.0.0.0" />
+    </root>
+  </artifact>
+</component>
